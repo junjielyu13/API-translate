@@ -1,0 +1,23 @@
+{	
+    "Address": {
+		"Country": "Country",
+		"CP": "City or postal code"
+	},
+	"Pagination": {
+		"ElementsPerPageText": "Elements per page",
+		"previousLabel": "Previous",
+		"nextLabel": "Next"
+	},
+	"Checkout": {
+		"ContainerInfo": {
+			"Charge": "Charge",
+			"Quantity": "Number of package",
+			"Type": "Type of package",
+			"Classification": "HS Code",
+			"Weight": "Weight",
+			"Description": "Description",
+			"Add": "Add",
+			"CBM": "CBM"
+		}
+	}
+}

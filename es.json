@@ -1,0 +1,23 @@
+{	
+    "Address": {
+		"Country": "País",
+		"CP": "Ciudad o código postal"
+	},
+	"Pagination": {
+		"ElementsPerPageText": "Elementos por página",
+		"previousLabel": "Anterior",
+		"nextLabel": "Siguiente"
+	},
+	"Checkout": {
+		"ContainerInfo": {
+			"Charge": "Carga",
+			"Quantity": "Número de bultos",
+			"Type": "Tipo de bulto",
+			"Classification": "HS Code",
+			"Weight": "Peso",
+			"Description": "Descripción",
+			"Add": "Añadir",
+			"CBM": "CBM"
+		}
+	}
+}

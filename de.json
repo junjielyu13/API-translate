@@ -1,0 +1,23 @@
+{
+    	"Address": {
+		"Country": "",
+		"CP": ""
+	},
+	"Pagination": {
+		"ElementsPerPageText": "",
+		"previousLabel": "",
+		"nextLabel": ""
+	},
+	"Checkout": {
+		"ContainerInfo": {
+			"Charge": "",
+			"Quantity": "",
+			"Type": "",
+			"Classification": "",
+			"Weight": "",
+			"Description": "",
+			"Add": "",
+			"CBM": ""
+		}
+	}
+}

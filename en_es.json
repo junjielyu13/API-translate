@@ -1,0 +1,23 @@
+{
+  "Address": {
+    "Country": "País",
+    "CP": "Ciudad o código postal"
+  },
+  "Pagination": {
+    "ElementsPerPageText": "Elementos por página",
+    "previousLabel": "Anterior",
+    "nextLabel": "Siguiente"
+  },
+  "Checkout": {
+    "ContainerInfo": {
+      "Charge": "Cargo",
+      "Quantity": "Número de paquete",
+      "Type": "Tipo de paquete",
+      "Classification": "Código SA",
+      "Weight": "Peso",
+      "Description": "Descripción",
+      "Add": "Añadir",
+      "CBM": "CBM"
+    }
+  }
+}
