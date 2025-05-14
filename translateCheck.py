@@ -41,4 +41,6 @@ Spanish (es.json) content:
 
 response = model.generate_content(prompt)
 print(response.text.strip())
+with open("result.md", "w", encoding="utf-8") as f:
+    f.write(response.text.strip())
 

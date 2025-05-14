@@ -42,7 +42,7 @@ try:
     es_data = json.loads(json_str)
 except Exception as e:
     print(f"Error parsing response JSON: {e}")
-    print("原始响应内容：")
+    print("Original response content：")
     print(translated_text)
     sys.exit(1)
 
